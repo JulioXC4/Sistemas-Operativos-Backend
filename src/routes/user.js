@@ -11,7 +11,7 @@ router.get("/getOrdersByUserId", getOrdersByUserId)
 
 //POST
 router.post("/createUser", createUser)
-router.post("/userAuth0Register", userAuth0Register)
+//router.post("/userAuth0Register", userAuth0Register)
 
 //PUT
 router.put("/updateUser", updateUser)
